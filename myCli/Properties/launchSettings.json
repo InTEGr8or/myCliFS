@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "myCli": {
+      "commandName": "Project",
+      "commandLineArgs": "test_text"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bSmXXVCg0v6+yu1brQF64H45LaPXlYnShAuDRXDJooramNw/DNV9OYH9lserEx1WYbG8WJNCFnRrjf3r2wjI1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xgenx\\source\\repos\\myCli\\myCli\\myCli.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xgenx\\.nuget\\packages\\argu\\6.1.1\\argu.6.1.1.nupkg.sha512",
+    "C:\\Users\\xgenx\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\xgenx\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\xgenx\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
